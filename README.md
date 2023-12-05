@@ -4,7 +4,7 @@ The repository contains the combined parts of the mini projects 2 and 3 involvin
 
 The links to the project descriptions are given:
 - [Mini Project 2](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
-- [Mini Project 2](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp3)
+- [Mini Project 3](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp3)
 
 
 
