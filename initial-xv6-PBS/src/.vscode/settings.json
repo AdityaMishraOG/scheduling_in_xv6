@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "printf.h": "c",
+        "user.h": "c",
+        "spinlock.h": "c"
+    }
+}
